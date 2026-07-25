@@ -1,0 +1,7 @@
+Sample Text Document
+
+This is a plain text file for testing conversion.
+
+It has multiple paragraphs.
+
+End of document.
